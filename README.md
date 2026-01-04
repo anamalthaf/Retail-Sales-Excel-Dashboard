@@ -21,8 +21,6 @@ data analysis skills including data cleaning, pivot tables, and dashboard creati
 - Which regions generate the highest sales?
 - Which products contribute the most to overall revenue?
 
-## Project Structure
-
 ## Author
 Anam Althaf  
 Aspiring Junior Data Analyst
